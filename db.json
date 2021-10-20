@@ -1,17 +1,12 @@
 {
   "emails": [
-    {
-      "id": 1,
-      "email": "tfsazng@gmail.com"
-    },
-    {
-      "id": 2,
-      "email": "tfsazng@gmail.com2"
-    },
-    {
-      "id": 3,
+   
+    
+      "email": "tfsazng@gmail.com",
+
+      "email": "tfsazng@gmail.com2",
+ 
       "email": "tfsazng@gmail.com1"
-    }
   ],
   "profile": {
     "name": "test"
